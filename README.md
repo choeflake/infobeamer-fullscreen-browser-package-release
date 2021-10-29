@@ -1,0 +1,1 @@
+# infobeamer-fullscreen-browser-package-release
